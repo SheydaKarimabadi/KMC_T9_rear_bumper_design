@@ -2,6 +2,8 @@
 
 This project features a custom rear bumper designed for the KMC T9 pickup truck. Using the original point cloud data of the vehicle and referencing an aftermarket bumper design, I created a new version tailored to functional and aesthetic goals. The final model was approved by the project lead and went into manufacturing.
 
+About KMC T9:
+The KMC T9 is a Chinese-made 4WD pickup truck available in the Iranian market. Its off-road capability and customizable body design make it a popular choice for aftermarket accessories like custom bumpers.
 📌 Overview
 
 Type: Real-world Product Design
